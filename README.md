@@ -9,3 +9,5 @@ Missing Features:
 
 Note:
     I already created a checking algorithm, but I'm having a hard time implementing it properly.
+    A complete flop.
+    
